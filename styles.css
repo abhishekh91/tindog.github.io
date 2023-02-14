@@ -95,6 +95,7 @@ p{
 }
 .title-image{
     width: 60%;
+    padding-left:5%;
     transform:rotate(20deg);
     margin-left: 50%;
 }
